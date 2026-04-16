@@ -1,4 +1,4 @@
-*Disclaimer: Generated with AI*
+*Disclaimer: README.md generated with AI*
 
 # Zed Editor Configuration
 
