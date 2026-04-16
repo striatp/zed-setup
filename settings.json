@@ -6,6 +6,14 @@
 	"ui_font_family": ".SystemUIFont",
 	"ui_font_size": 15,
 
+	"theme_overrides": {
+		"One Dark": {
+			"version_control.added": "#A5D1B7FF",
+			"version_control.modified": "#D9CDA3FF",
+			"version_control.deleted": "#DBB2B5FF",
+		},
+	},
+
 	// Git settings
 	"git": {
 		"inline_blame": {
