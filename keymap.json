@@ -1,9 +1,9 @@
 [
 	{
-		// Run a Go file
 		"context": "Editor",
 		"bindings": {
 			"ctrl-r": ["task::Spawn", { "task_name": "r/go" }],
+			"ctrl-t": ["task::Spawn", { "task_name": "t/go" }],
 		},
 	},
 ]
